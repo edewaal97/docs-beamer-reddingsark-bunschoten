@@ -5,7 +5,7 @@ blijven. Dit voorkomt dat je in alle haast het bestand moet zoeken en vervolgens
 moet wachten totdat de presentatie is geladen. Zoals hierboven ook al vermeld
 staat, maak eerst het scherm leeg of zwart voor je overschakelt naar de PowerPoint.
 Klik in de taakbalk op het PowerPoint icoontje. Klik daarna in het lint op
-“Diavoorstelling” en desgewenst op “Vanaf begin” of “Vanaf huidige dia”.
+:guilabel:`Diavoorstelling` en desgewenst op :guilabel:`Vanaf begin` of :guilabel:`Vanaf huidige dia`.
 
 .. image:: ../images/pp-start-presentatie.png
 
@@ -20,6 +20,6 @@ PowerPointpresentatie afsluiten
 Het afsluiten van de diavoorstelling is eigenlijk vrij simpel. Klik op het kruisje rechtsboven of druk op het toetsenbord op ``Esc``.
 
 .. Tip::
-  Ondanks deze simpele handeling blijkt in de praktijk dat het nog weleens fout gaat (bijvoorbeeld als rechtsboven op het minnetje of op het vierkantje gedrukt wordt. De presentatorweergave verdwijnt dan (naar de achtergrond). Als dit gebeurd, geen paniek. Klik in de taakbalk op het PowerPoint icoontje en sluit het venster met de titel “PowerPoint-diavoorstelling” door op het kruisje naast de titel te klikken. Het kruisje wordt zichtbaar als de muis hier overheen bewogen wordt.
+  Ondanks deze simpele handeling blijkt in de praktijk dat het nog weleens fout gaat (bijvoorbeeld als rechtsboven op het minnetje of op het vierkantje gedrukt wordt. De presentatorweergave verdwijnt dan (naar de achtergrond). Als dit gebeurd, geen paniek. Klik in de taakbalk op het PowerPoint icoontje en sluit het venster met de titel :guilabel:`PowerPoint-diavoorstelling` door op het kruisje naast de titel te klikken. Het kruisje wordt zichtbaar als de muis hier overheen bewogen wordt.
 
   .. image:: ../images/pp-poef-afsluiten.png

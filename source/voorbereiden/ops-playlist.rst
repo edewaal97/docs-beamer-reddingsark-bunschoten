@@ -15,6 +15,6 @@ Klik één keer op de titel van een lied in de playlist om in het lint de opties
 
 .. image:: ../images/ops-playlist-lint.png
 
-Sla het bestand op in de archiefmap van het huidige jaar en gebruik de standaard datumstructuur zodat alles netjes op volgorde blijft staan. Als het niet een gebruikelijke dienst betreft, maar een bijbelstudie of jeugddienst, voeg dit dan even toe aan de bestandsnaam.
+Sla het bestand op in de archiefmap van het huidige jaar en gebruik de standaard datumstructuur zoals OPS dat suggereert (``Playlist_yyyy-mm-dd``),  zodat alles netjes op volgorde blijft staan. Als het niet een gebruikelijke dienst betreft, maar een bijbelstudie of jeugddienst, voeg dit dan even toe aan de bestandsnaam.
 
 .. image:: ../images/ops-playlist-save.png

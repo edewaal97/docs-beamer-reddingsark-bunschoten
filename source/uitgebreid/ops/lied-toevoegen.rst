@@ -19,7 +19,7 @@ Let bij het invullen van de liedtekst op de volgende zaken:
 -	Maak tekstregels niet te lang
 -	Mik er op om blokjes van vier tekstregels te maken (incidenteel 5 is niet erg, maar gebruik voor 6 regels liever twee blokjes van 3 of één van 4 en één van 2 regels).
 -	Breek de tekstregels op logische plekken (waar even pauze is bij het zingen) af.
--	Maak gebruik van codes om aantekeningen voor andere beameristen te maken. Zie voor een verzameling codes het hoofdstuk “3.3 (Speciale) codes in de liedtekstbewerking”.
+-	Maak gebruik van codes om aantekeningen voor andere beameristen te maken. Zie voor een verzameling codes het hoofdstuk `OPS - Tekstcodes </uitgebreid/ops/ops-tekstcodes.html>`_.
 -	Maak bij langere coupletten/refreinen/etc gebruik van de [split] code.
 -	Zet liever twee keer dezelfde tekst onder elkaar dan gebruik te maken van de aantekeningen (2x), (3x) etc…
 

@@ -20,10 +20,10 @@ Tip:
 
 Build:
 ------------
-`make html`
+``make html``
 
 Met Sphinx autobuild:
-`sphinx-autobuild source build`
+``sphinx-autobuild source build``
 
 Cleanup of buildfolder:
-`make clean`
+``make clean``

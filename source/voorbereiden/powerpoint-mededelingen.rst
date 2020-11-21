@@ -13,6 +13,6 @@ Voeg als er ruimte is nog even een korte tekst toe moet de omschrijving van wat 
 
 .. image:: ../images/pp-afb-tips.png
 
-Sla de presentatie op in de map van het huidige jaar en gebruik de naamgeving [yyyy-mm-dd] (bijv. 2020-09-20).
+Sla de presentatie op in de map van het huidige jaar en gebruik de naamgeving ``yyyy-mm-dd`` (bijv. 2020-09-20).
 
 .. image:: ../images/pp-opslaan-mededelingen.png
