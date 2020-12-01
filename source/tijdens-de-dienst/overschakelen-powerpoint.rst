@@ -20,6 +20,6 @@ PowerPointpresentatie afsluiten
 Het afsluiten van de diavoorstelling is eigenlijk vrij simpel. Klik op het kruisje rechtsboven of druk op het toetsenbord op ``Esc``.
 
 .. Tip::
-  Ondanks deze simpele handeling blijkt in de praktijk dat het nog weleens fout gaat (bijvoorbeeld als rechtsboven op het minnetje of op het vierkantje gedrukt wordt. De presentatorweergave verdwijnt dan (naar de achtergrond). Als dit gebeurd, geen paniek. Klik in de taakbalk op het PowerPoint icoontje en sluit het venster met de titel :guilabel:`PowerPoint-diavoorstelling` door op het kruisje naast de titel te klikken. Het kruisje wordt zichtbaar als de muis hier overheen bewogen wordt.
+  Ondanks deze simpele handeling blijkt in de praktijk dat het nog weleens fout gaat (bijvoorbeeld als rechtsboven op het minnetje of op het vierkantje gedrukt wordt. De presentatorweergave verdwijnt dan (naar de achtergrond). Als dit gebeurt, geen paniek. Klik in de taakbalk op het PowerPoint icoontje en sluit het venster met de titel :guilabel:`PowerPoint-diavoorstelling` door op het kruisje naast de titel te klikken. Het kruisje wordt zichtbaar als de muis hier overheen bewogen wordt.
 
   .. image:: ../images/pp-poef-afsluiten.png
