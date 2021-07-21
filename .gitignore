@@ -1,5 +1,7 @@
+/.idea
+/.vscode
 /build
-
+/source/_build
 
 
 # OS generated files #
