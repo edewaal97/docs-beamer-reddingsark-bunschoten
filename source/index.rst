@@ -32,5 +32,6 @@ Deze handleiding is geschreven voor de beamerdienst in
    uitgebreid/ops/lied-bewerken
    uitgebreid/ops/ops-tekstcodes
    uitgebreid/ops/stijlen-bewerken
+   uitgebreid/ops/beeldscherminstellingen
    uitgebreid/ops/notities-in-playlist
    uitgebreid/sneltoetsen
