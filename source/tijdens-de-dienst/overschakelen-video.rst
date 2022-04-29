@@ -26,3 +26,12 @@ Om de video vroegtijdig te stoppen, klik op het stopicoontje (vierkantje) onderi
 .. TIP::
   - Als er geluid nodig is, geef dit dan tijdig door zodat het aangesloten kan worden. Waarschijnlijk vraagt de geluidsman voor de dienst of het geluid even getest kan worden. Start hiervoor het filmpje even en stop als aangegeven wordt dat de test geslaagd is.
   - Zorg dat het geluid van de laptop en van VLC op 100% staat, dit is voor het geluidsteam het makkelijkst.
+
+Geavanceerd:
+------------
+
+Code voor achter het doel van de snelkoppling om automatisch op het tweede scherm te starten:
+
+.. code-block:: console
+
+   --video-x=1921 --video-y=1 --no-video-title-show --fullscreen --no-embedded-video --play-and-stop --width=1280 --height=720 --no-mouse-events --no-qt-fs-controller --no-osd --key-leave-fullscreen=
