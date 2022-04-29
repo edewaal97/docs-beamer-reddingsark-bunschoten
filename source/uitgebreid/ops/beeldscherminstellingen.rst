@@ -1,7 +1,7 @@
 OPS - Beeldscherminstellingen
 =============================
 
-.. Important::
+.. Warning::
   Meestal is het niet nodig om aanpassingen te doen in de beeldscherminstellingen. De meeste storingen die met de beeldscherminstellingen te maken hebben kunnen opgelost worden door het lied opnieuw aan een kolom toe te voegen, of door OPS opnieuw op te starten.
 
 .. Tip::
@@ -11,8 +11,10 @@ Mocht het toch nodig zijn om wijzigingen te maken, dan zijn de instellingen te v
 
 .. image:: /images/ops-presenter-extra-instellingen.png
 
-Vervolgens kunnen de beeldscherminstellingen gevonden worden door in het linkermenu op :guilabel:`Beeldschermen` te klikken. Om een correcte weergave te garanderen moeten de instellingen gelijk zijn aan de volgende afbeelding. Indien er meer dan één beeldscherm weergegeven wordt, kan deze verwijderd worden door deze te selecteren en aan de rechterkant op het minnetje te drukken.
+Vervolgens kunnen de beeldscherminstellingen gevonden worden door in het linkermenu op :guilabel:`Beeldschermen` te klikken. Om een correcte weergave te garanderen moeten de instellingen gelijk zijn aan de volgende afbeeldingen. Beeldschermen kunnen worden toegevoegd als ze aangesloten zijn. Gebruik hiervoor de plus- en minknopjes rechts in het venster. Het alias is ter verduidelijking.
 
-.. image:: /images/ops-beeldscherminstellingen.png
+.. image:: /images/ops-beeldscherminstellingen-laptop.png
+
+.. image:: /images/ops-beeldscherminstellingen-beamer.png
 
 Als er wijzigingen zijn gemaakt, is het aan te raden om OPS opnieuw op te starten. Hierdoor weet je zeker dat alle instellingen ook toegepast worden.
