@@ -1,5 +1,5 @@
-Notities toevoegen in Playlist
-==============================
+OPS - Notities toevoegen in Playlist
+====================================
 In sommige gevallen kan het handig zijn om notities aan de playlist toe te voegen. OPS ondersteund dit echter niet officieel. Het is echter door middel van een *hack* toch mogelijk.
 
 Klik in de playlist op het lied *waaronder* de notitie moet worden weergegeven.

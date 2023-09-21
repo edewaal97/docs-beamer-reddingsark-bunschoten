@@ -29,3 +29,5 @@ Technische gegevens:
 - Ingestelde schermresolutie: 1280x720 pixels
 - Aspect Ratio: 16:9
 - Verversingssnelheid: 60Hz
+
+Als er problemen zijn met OPS Presenter is het het mogelijk dat de beeldscherminstellingen verkeerd zijn. Controleer deze instellingen op de pagina: :doc:`../uitgebreid/ops/beeldscherminstellingen`
