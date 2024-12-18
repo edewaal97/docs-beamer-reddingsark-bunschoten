@@ -1,5 +1,6 @@
-PowerPoint Hal
-==============
+(OUD) PowerPoint Hal
+====================
+In het verleden werd er ook een PowerPoint gemaakt voor de schermen die in de hal hangen. Dit doen we tegenwoordig niet meer omdat toegang tot de computer van de concierge vereist is.
 
 De presentaties in de hal zijn inhoudelijk vrijwel hetzelfde als die van de mededelingen. Er wordt alleen veel minder getoond. Er worden twee presentaties gemaakt. Het enige verschil is de tekst “Welkom” of “Tot ziens” op de eerste dia.
 Start de template van de welkomstpresentatie op dezelfde manier als de template van de mededelingen. Pas de agenda aan en sla de presentatie op in de correcte map met de standaardnaam ``yyyy-mm-dd Welkom!``.

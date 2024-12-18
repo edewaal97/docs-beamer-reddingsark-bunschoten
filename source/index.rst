@@ -10,7 +10,7 @@ Deze handleiding is geschreven voor de beamerdienst in
    voorbereiden/index
    voorbereiden/ops-playlist
    voorbereiden/powerpoint-mededelingen
-   voorbereiden/powerpoint-hal
+   voorbereiden/oud-powerpoint-hal
    voorbereiden/video-downloaden
    voorbereiden/aansluiten
 
