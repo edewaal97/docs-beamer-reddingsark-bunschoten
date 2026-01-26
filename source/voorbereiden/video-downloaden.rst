@@ -5,9 +5,22 @@ Als er gevraagd wordt om video’s van YouTube af te spelen dan kan dit. Het sta
 
 Voor het downloaden is de link van de YouTubevideo belangrijk. Neem bijvoorbeeld de video van de `Remix van het nummer Adembenemend van Marcel en Lydia Zimmer <https://www.youtube.com/watch?v=DaLolaYmX6g>`__. Kopieer de link boven uit de adresbalk: ``https://www.youtube.com/watch?v=DaLolaYmX6g``.
 
+.. Danger::
+  **Download geen afspeellijsten, alleen losse video's!**
+  
+  Als je een YouTube link ontvangt en deze plakt, zal deze starten met ``https://youtube.com/watch?=``. Daarna volgen 11 karakters met het video-ID. Als in de URL na het video-ID ``&list=`` staat, betekent dit dat de URL onderdeel is van een afspeellijst. Om alleen de video te downloaden, verwijder je alles uit de link na het video-ID. Alles wat volgt na het video-ID is informatie die niet belangrijk is. Dit kan je veilig verwijderen voordat je de link plakt in de downloadsoftware.
+
+  * Goed: ``https://www.youtube.com/watch?v=RRFgtwQP8Qk``
+  * Fout: ``https://www.youtube.com/watch?v=RRFgtwQP8Qk&list=RDRRFgtwQP8Qk&start_radio=1``
+
+  Dit kan je ook zien als je de link opent in de webbrowser. Je ziet dan naast de play-knop een knop voor het volgende en vorige nummer. Aan de rechterkant, of direct onder de video staat de afspeellijst in een apart kader.
+  
+  .. image:: /images/youtube-video-in-playlist.png
+
 Op de beamerlaptop staan twee applicaties om de video te downloaden. “Open Video Downloader” en “Stacher7”. Beide applicaties staan in het startmenu.
 
-  *Kies in de meeste gevallen de hoogste kwaliteit. Het heeft echter geen zin om een video te downloaden met een kwaliteit hoger dan 1080p, dit neemt alleen maar onnodig ruimte in beslag. Als er dus een hogere kwaliteit beschikbaar is, kies dan voor 1080p.*
+.. Tip::
+  Kies in de meeste gevallen de hoogste kwaliteit. Het heeft echter geen zin om een video te downloaden met een kwaliteit hoger dan 1080p, dit neemt alleen maar onnodig ruimte in beslag. Als er dus een hogere kwaliteit beschikbaar is, kies dan voor 1080p.
 
 Open Video Downloader
 ---------------------
@@ -27,7 +40,7 @@ Stacher7
 
 .. image:: /images/stacher7.png
 
-Dit programma controleerd na opstarten of alle componenten up-to-date zijn. Hierdoor kan het lijken alsof het programma vastloopt. Wacht dit even geduldig af. Als alles bijgewerkt is, staat rechtsboven in het scherm een klein een groen vinkje.
+Dit programma controleert na opstarten of alle componenten up-to-date zijn. Hierdoor kan het lijken alsof het programma vastloopt. Wacht dit even geduldig af. Als alles bijgewerkt is, staat rechtsboven in het scherm een klein een groen vinkje.
 
 Plak de URL in het tekstvak (1) en klik op de downloadknop (2).
 
