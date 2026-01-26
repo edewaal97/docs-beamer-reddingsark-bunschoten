@@ -19,7 +19,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Handleiding Beamer'
-copyright = '2020, Egbert de Waal'
+copyright = '2025, Egbert de Waal'
 author = 'Egbert de Waal'
 
 

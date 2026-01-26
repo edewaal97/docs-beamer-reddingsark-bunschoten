@@ -37,4 +37,4 @@ jobs:
           echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
 
       - name: 🚀 Deploy
-        run: rsync --archive --delete --stats -e 'ssh -p 7685' --exclude={'.git','.github'} build/html/ ${{ secrets.REMOTE_DEST }}
+        run: rsync --archive --human-readable --delete --verbose --stats --itemize-changes --compress --rsh='ssh -p 7685' --exclude={'.git','.github'} build/html/ ${{ secrets.REMOTE_DEST }}
