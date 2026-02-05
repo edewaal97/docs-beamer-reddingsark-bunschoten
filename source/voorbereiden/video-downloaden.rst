@@ -35,6 +35,15 @@ Na het downloaden staat de video in de map ``D:\filmpjes`` (door windows weergeg
 
 `Downloadlocatie StefanLobbenmeier Open Video Downloader <https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/latest>`_
 
+.. Tip::
+  Soms is het nodig om ook de ondertiteling te downloaden. Volg hiervoor de stappen onder de volgende afbeelding.
+  
+  .. image:: /images/open-video-downloader-subtitles.png
+
+  Klik na het toevoegen van de video, maar voor het downloaden op het icoontje voor subtitles (1). Vink het vakje :guilabel:`Download subtitles` aan (2) en selecteer de gewenste subtitles (3). Klik op :guilabel:`Ok` (4) en vervolgens op :guilabel:`download`` (5).
+
+  Naast het videobestand, worden de subtitles opgeslagen in een ``.vtt``-bestand. Zorg dat de naam van de video en de naam van het ondertitelingsbestand niet wijzigen en zorg dat beide bestanden in dezelfde map staan. VLC zal dan de ondertiteling automatisch oppakken bij het afspelen van de video. **Test of de ondertiteling werkt in VLC voorafgaand aan de dienst!**
+
 Stacher7
 --------
 
