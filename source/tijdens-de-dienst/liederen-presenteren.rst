@@ -2,6 +2,10 @@ Liederen presenteren
 ====================
 Als de beamer is aangesloten kan OPS gestart worden en de reeds voorbereidde playlist geopend worden.
 
+Controleer onder in het scherm of de configuratie voor de beamer klopt, zet de instellingen zoals in de volgende afbeelding. Zorg dat `laptop` niet in de drop-down menu's is geselecteerd, en ook niet daaronder is aangevinkt.
+
+.. image:: ../images/ops-beeldschermen.png
+
 Klik vervolgens in het lint (tabblad :guilabel:`home`) op :guilabel:`Live-scherm
 Uit` (of gebruik de sneltoets ``F2``).
 
